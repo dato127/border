@@ -1,0 +1,28 @@
+/* პრველი დივის სელექტორი*/
+#div1 {
+    width: 305px;
+    height: 168px;
+    border: 1px solid rgb(184, 0, 107);
+}
+/* მეორე დივის სელექტორი*/
+#div2 {
+    margin-top: 20px;
+    width: 657px;
+    height: 121px;
+    border: 3px dashed rgb(48, 6, 87);
+}
+/* მესამე დივის სელექტორი*/
+#div3 {
+    margin-top: 36px;
+    width: 395px;
+    height: 95px;
+    border: 3px solid rgb(31, 224, 31);
+}
+/* მეოთხე დივის სელექტორი*/
+#div4 {
+    margin-top: 47px;
+    width: 1097px;
+    height: 173px;
+    border: 3px solid rgb(94, 81, 8);
+    background-color: rgb(16, 85, 163);
+}
